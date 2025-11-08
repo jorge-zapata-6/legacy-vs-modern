@@ -1,5 +1,5 @@
 # legacy-vs-modern
-In this project, I grouped legacy and modern companies by industry, and compared their workforce size to the number of clients they serve.
+In this project, I grouped legacy and modern companies by industry, and compared their workforce size to the number of customers they serve.
 
 # Key Insights
 Many of the modern companies have more customers per employee than their legacy counterparts. 
