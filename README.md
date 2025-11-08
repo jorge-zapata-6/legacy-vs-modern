@@ -7,3 +7,7 @@ An example of this would be comparing modern company Ant Financial (24,700 emplo
 
 This obviously does'nt mean that each employee is serving a numerous amount of customers at a time, but it is indicative of their operating model enabling them to tend to more clients with less personnel. 
 
+# Data and Tools Used
+- Data was researched from company websites and then inputted into Excel.
+- Python for grouping each company by industry and creating side-by-side bar charts.
+
